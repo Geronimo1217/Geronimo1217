@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**Geronimo1217/Geronimo1217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋eu  sou Geronimo Silva!   
 
 Here are some ideas to get you started:
 
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
